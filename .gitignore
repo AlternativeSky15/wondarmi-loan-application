@@ -1,0 +1,6 @@
+.venv/
+db.sqlite3
+media/
+video/
+loan_application/build/
+loan_application/.dart_tool/
